@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Document</title>
+    <style>
+      [v-cloak] { display: none; }
+    </style>
+  </head>
+  <body>
+    <main id="root" v-cloak>
+      <section v-if="item !== null">
+	 <h2>{{ item.title }}</h2>
+	 <p>{{ item.content }}</p>
+	 <a href="javascript:" @click.prevent="getItems()">Home</a>
+      </section>
+      <section v-if="item === null">
+	  <ul>
+	      <li v-for="(item, idx) in items">
+		  <a href="javascript:"  @click.prevent="getItem(idx)">{{ item.title }}</a>
+	      </li>
+	  </ul>
+      </section>
+    </main>
+
+    <script src="index.js"></script>
+  </body>
+</html>
