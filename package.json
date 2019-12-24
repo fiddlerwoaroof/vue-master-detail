@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "^16.10.2",
-    "redux": "^4.0.4",
+    "redux": "^4.0.5",
     "revue": "^3.0.0",
     "routedux": "^1.0.2",
     "vue": "^2.3.3"
