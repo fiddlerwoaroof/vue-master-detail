@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "react": "^16.12.0",
+    "react": "^17.0.0",
     "redux": "^4.0.5",
     "revue": "^3.0.0",
     "routedux": "^1.0.2",
