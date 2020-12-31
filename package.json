@@ -14,7 +14,7 @@
     "redux": "^4.0.5",
     "revue": "^3.0.0",
     "routedux": "^1.0.2",
-    "vue": "^2.6.11"
+    "vue": "^2.6.12"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
@@ -45,7 +45,7 @@
     "url-loader": "^0.6.2",
     "vue-loader": "^16.1.2",
     "vue-style-loader": "^4.1.2",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "^2.6.12",
     "webpack": "^2.6.1",
     "webpack-bundle-analyzer": "^4.3.0",
     "webpack-dev-middleware": "^2.0.6",
