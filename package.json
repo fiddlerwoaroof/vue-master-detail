@@ -10,8 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "redux": "^4.1.0",
+    "react": "^17.0.2",
+    "redux": "^4.0.5",
     "revue": "^3.0.0",
     "routedux": "^1.0.2",
     "vue": "^2.6.12"
@@ -25,7 +25,7 @@
     "babel-preset-stage-2": "^6.22.0",
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.22.0",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "connect-history-api-fallback": "^1.3.0",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.0",
@@ -40,14 +40,14 @@
     "optimize-css-assets-webpack-plugin": "^4.0.0",
     "ora": "^5.2.0",
     "rimraf": "^3.0.2",
-    "semver": "^7.3.4",
+    "semver": "^7.3.5",
     "shelljs": "^0.8.4",
     "url-loader": "^0.6.2",
-    "vue-loader": "^16.1.2",
+    "vue-loader": "^16.2.0",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.12",
     "webpack": "^2.6.1",
-    "webpack-bundle-analyzer": "^4.3.0",
+    "webpack-bundle-analyzer": "^4.4.1",
     "webpack-dev-middleware": "^2.0.6",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-merge": "^5.7.3"
